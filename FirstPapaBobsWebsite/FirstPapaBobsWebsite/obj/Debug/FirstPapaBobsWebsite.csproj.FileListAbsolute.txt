@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\bin\FirstPapaBobsWebsite.dll.config
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\bin\FirstPapaBobsWebsite.dll
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\bin\FirstPapaBobsWebsite.pdb
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\obj\Debug\FirstPapaBobsWebsite.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\obj\Debug\FirstPapaBobsWebsite.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\obj\Debug\FirstPapaBobsWebsite.dll
+C:\Users\warbe\source\repos\FirstPapaBobsWebsite\FirstPapaBobsWebsite\obj\Debug\FirstPapaBobsWebsite.pdb
